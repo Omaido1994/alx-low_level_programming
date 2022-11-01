@@ -4,6 +4,7 @@
 /**
  *main: prints if number is positive negative or zero
  * checks if int n is positive,
+ * Return; always sucess
  * negative or equal to zero
  */
 int main(void)
