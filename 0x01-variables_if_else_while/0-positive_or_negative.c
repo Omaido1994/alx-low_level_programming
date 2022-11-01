@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/*
+/**
+ *main: prints if number is positive negative or zero
  * checks if int n is positive,
  * negative or equal to zero
  */
